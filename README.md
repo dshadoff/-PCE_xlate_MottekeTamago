@@ -161,4 +161,4 @@ Translator: Forrest Richmond
 
 Layout: Adam Pavlacka 
 
-We all hope that you enjoy the translation.
+#### We all hope that you enjoy the translation.
