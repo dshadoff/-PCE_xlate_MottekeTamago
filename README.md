@@ -98,7 +98,7 @@ bit represents "repeat the same byte from 2 bytes ago (ie. 16-bit).
 Examples:
 
 input:
-``
+```
 FF 00 01 02 03 04 05 06 07 - header = FF = 11111111 (use all 8 bytes)
 ```
 output:
