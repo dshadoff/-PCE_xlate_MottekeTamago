@@ -146,14 +146,19 @@ The work broke down roughly as follows:
 
 ### Game
 
-#### Hacking: David Shadoff
-#### Major Text Translation: Forrest Richmond
-#### Minor Translation/Edit: David Shadoff
-#### PPF version of patch: NightWolve
+Hacking: David Shadoff
+
+Major Text Translation: Forrest Richmond
+
+Minor Translation/Edit: David Shadoff
+
+PPF version of patch: NightWolve
+
 
 ### English version of game manual
 
-#### Translator: Forrest Richmond
-#### Layout: Adam Pavlacka 
+Translator: Forrest Richmond
+
+Layout: Adam Pavlacka 
 
 We all hope that you enjoy the translation.
