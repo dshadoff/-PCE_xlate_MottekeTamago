@@ -1,0 +1,131 @@
+0        1         2         3
+123456789012345678901234567890
+
+------------------------------ 0x35b2c - OK
+
+This section explains how to
+
+play Motteke Tamago.
+
+
+------------------------------ 0x35c94 - OK
+
+Each player controls a bird
+
+like this one.
+
+
+------------------------------ 0x35dfc - OK
+As eggs appear on the screen,
+
+pick them up and they will
+
+follow you around.
+
+------------------------------ 0x35f64 - OK
+
+After a short time, they will
+
+hatch into chicks.
+
+
+------------------------------ 0x1c082 - OK
+The hatched chicks return to
+
+your base.  But when confused,
+
+they may go to another base.
+
+------------------------------ 0x360cc - OK
+
+Press button 2 to block a
+
+path.
+
+
+------------------------------ 0x36234 - OK
+"Fire up" to clear blocks.
+
+Hold button I until you flash
+
+red, then release.
+
+------------------------------ 0x1c1ea - OK
+Collisions start fights.
+
+To win, hit the direction keys
+
+quickly at the other player.
+
+------------------------------ 0x1c352 - OK
+
+If you lose a fight, hit the
+
+direction keys to recover.
+
+
+------------------------------ 0x3639c - OK
+Items are hidden in flashing
+
+bushes.  Push the bushes to
+
+shake them loose.
+
+------------------------------ 0x3666c - OK
+
+This item will make you walk
+
+faster.
+
+
+------------------------------ 0x367d4 - OK
+
+This item will allow you to
+
+place more blocks.
+
+
+------------------------------ 0x287c7 - OK
+
+This item will decrease the
+
+time needed to "Fire up".
+
+
+------------------------------ 0x2892f - OK
+
+This item lets you take
+
+control of chicks in transit.
+
+
+------------------------------ 0x28a97 - OK
+
+This item increases the
+
+hatching speed of your eggs.
+
+
+------------------------------ 0x28bff - OK
+
+This item stops all other
+
+players from moving briefly.
+
+
+------------------------------ 0x28d67 - OK
+
+This item has a random effect.
+
+It may be good or bad.
+
+
+------------------------------ 0x1c4b9 - OK
+
+That's it for the rules...
+
+Now let's play the game !
+
+
+------------------------------
+

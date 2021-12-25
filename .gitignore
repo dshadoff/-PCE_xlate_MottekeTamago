@@ -1,0 +1,17 @@
+*~
+*.swp
+extract/*.iso
+extract/*.bin
+extract/*.bin
+extract/*.orig
+reinsert/*.iso
+reins_shoptalk/*.bin
+reins_shoptalk/*.sym
+reins_shoptalk/*.pce
+reinsert/*.bin
+reinsert/*.bin
+reinsert/*.orig
+tools/*.bin
+tools/*.o
+tools/shop_talk_extract/*.bin
+

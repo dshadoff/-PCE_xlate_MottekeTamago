@@ -1,0 +1,235 @@
+0        1
+123456789012345678
+
+------------------
+Item Type
+------------------ 0x280ef OK
+(begin)
+RUN BOTAN de
+TAITURU ni modorimasu.
+ - - - - - - - - -
+Press RUN button
+to return to the
+title screen.
+------------------ 0x2820f OK
+(type1)
+NO-MARU TAIPU desu
+ - - - - - - - - -
+Normal Items
+
+------------------ 0x2832f OK
+(type2)
+shyutsugenshiteshibarakushinaito,
+nan no AITEMU ga
+wakaranai TAIPU desu.
+GIYANBURU seigatsuyokunarimasu.
+ - - - - - - - - -
+Mystery Items
+Items are unknown
+but revealed after
+a few moments.
+------------------
+
+
+------------------
+Walk Type
+------------------ 0x2842b OK
+(type1)
+koreha NO-MARU TAIPU.
+BIGINA- muki desu
+ - - - - - - - - -
+Normal Type Walk
+Suitable for
+beginners.
+------------------ 0x2856f OK
+(type2)
+tomarimasen.
+KIYARA ha aru kitsuzukemasu.
+demo [oyayubi] ga itakunaranai YO!
+ - - - - - - - - -
+No stopping.
+
+Keeps your thumbs
+from getting sore.
+------------------ 0x2868f OK
+(type3)
+tomaranai dokoroka,
+U TA-N suradokimasen!
+PANIKKU ni naritai PUREIYA- ni
+osusumeshimasu.
+ - - - - - - - - -
+No stopping.
+No U-Turns either!
+Advice:
+Don't Panic !!
+------------------
+
+
+------------------
+BGM Type
+------------------ 0x114f5 OK
+(CD)
+BGM wo CD de narashimasu.
+ - - - - - - - - -
+Background music
+from CD audio.
+------------------ 0x11616 OK
+(PSG)
+BGM wo naizou ongen de narashimasu
+ - - - - - - - - -
+Background music
+from internal
+sound generator.
+------------------
+
+
+------------------
+Sound Test
+------------------ 0x11736 OK
+(CD)
++ (char) BOTAN de eran de,
+I BOTAN de ensoushimasu.
+ - - - - - - - - -
+Use direction keys
+to choose a sound.
+
+Press button I
+to play it.
+------------------
+
+
+
+
+------------------
+PLAY GAME
+------------------ 0x2529a OK
+ENTORI- shitekudasai.
+I BOTAN de, san ka dekimasu.
+(?) ni susumutoki ha, RUN BOTAN wo
+o shite kudasai.
+ - - - - - - - - -
+Press I to select
+players.
+
+Press RUN to start
+------------------ 0x253ba OK
+CONPIYU-TA wo, sanka sasemasuka ?
+I BOTAN de (??) shite kudasai.
+(?) ni susumu tokiha, RUN BOTAN wo
+o shite kudasai.
+ - - - - - - - - -
+Press I to let the
+computer play.
+
+Press RUN to start
+
+------------------ 0x254da OK
+TAMAGO no (?) wo, (?) mete kudasai.
++ (char) BOTAN de (?) wo kae,
+RUN BOTAN de (??) shimasu.
+ - - - - - - - - -
+Choose the number
+of eggs to collect
+then press RUN.
+------------------
+
+------------------
+BONUS SCORING:
+------------------ 0x25990 OK
+otsukaresama!
+korede ha (?) wo (?) shimasu.
+tadaima no (?) ha, (?) no touru desu
+ - - - - - - - - -
+WHEW! Round Over !
+The score at the
+end of the round
+is as follows:
+------------------ 0x25a8c OK
+ --- BONUS #1 ---
+Returned    * 100
+ to base
+------------------ 0x25b1c OK
+ --- BONUS #2 ---
+Player's    * 200
+ color chicks
+------------------ 0x25bac OK
+ --- BONUS #3 ---
+Pink        * 300
+ chicks
+------------------ 0x25c3c OK
+ --- BONUS #4 ---
+Player's    * 300
+ lives
+------------------ 0x25ccc OK
+ --- BONUS #5 ---
+Swans      * 1000
+ (gold eggs)
+------------------ 0x25d5c OK
+ -- ANTI-BONUS --
+Black      * -500
+ chicks
+------------------
+
+------------------ 0x25e10 OK
+As a result...
+------------------ 0x25f30 OK
+The winner of
+this round...
+------------------ 0x26050 OK
+is..............
+------------------ 0x26170 OK
+1P human wins !
+Hooray !
+
+Press RUN button
+------------------ 0x26290 OK
+1P computer wins !
+Too bad !
+
+Press RUN button
+------------------ 0x263b0 OK
+WHAT !?!
+A DRAW !!!
+
+Press RUN button
+------------------
+
+
+--------------
+Misc:
+-------------- 0x36504 OK
+Item no setsumei wo shimasu.
+ - - - - - - -
+Item instructions
+--------------
+
+
+
+
+Decoded as a sprite at VRAM addr $3800:
+---------------------------------------
+0        1
+12345678901234
+-------------- 0x
++ (char) BOTAN de
+  SUTE-JI wo eran de kudasai
+ - - - - - - - - -
+Use joypad to
+select stage
+--------------
+
+
+
+UNKNOWN stuff:
+--------------
+0x255fa
+SUTE-JI wo (?) shite kudasai.
+BOTAN de eran (?) to,
+RUN BOTAN de (?) shimasu.
+suru to, GE-MU ka STA-TO shimasu.
+ - - - - - - -
+Use joypad to
+choose stage.
+Press RUN to
+start game.
+
